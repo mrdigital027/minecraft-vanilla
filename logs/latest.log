@@ -1,13 +1,15 @@
-[14:17:37] [Server thread/INFO]: Stopping the server
-[14:17:37] [Server thread/INFO]: Stopping server
-[14:17:37] [Server thread/INFO]: Saving players
-[14:17:37] [Server thread/INFO]: Saving worlds
-[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:17:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:17:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:25:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:25:47] [Server thread/INFO]: quit<--[HERE]
+[11:25:49] [Server thread/INFO]: Stopping the server
+[11:25:49] [Server thread/INFO]: Stopping server
+[11:25:49] [Server thread/INFO]: Saving players
+[11:25:49] [Server thread/INFO]: Saving worlds
+[11:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:25:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:25:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
